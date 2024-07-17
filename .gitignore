@@ -1,0 +1,6 @@
+/Project/Library/
+/Logs/
+*.sln
+*.csproj
+/.idea/
+/.vs/
