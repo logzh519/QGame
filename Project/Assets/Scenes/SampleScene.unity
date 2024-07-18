@@ -435,7 +435,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 9452b477662fba3439691052066d6077,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9452b477662fba3439691052066d6077,
         type: 3}
@@ -445,7 +445,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 9452b477662fba3439691052066d6077,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9452b477662fba3439691052066d6077,
         type: 3}
@@ -460,7 +460,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 9452b477662fba3439691052066d6077,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 180
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 9452b477662fba3439691052066d6077,
         type: 3}
@@ -480,7 +480,7 @@ PrefabInstance:
     - target: {fileID: 5866666021909216657, guid: 9452b477662fba3439691052066d6077,
         type: 3}
       propertyPath: m_ApplyRootMotion
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9452b477662fba3439691052066d6077, type: 3}
@@ -671,3 +671,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e779e861c84a7334a9cc0702b0fbf366, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  forwardSpeed: 2
+  backwardSpeed: -1.5
