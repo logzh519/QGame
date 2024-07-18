@@ -30,7 +30,7 @@ public class CharacterController : MonoBehaviour
         {
             _animator.SetBool("Walk Backward", true);
         }
-        else if(movement.y >= _threshold)
+        else if(movement.y >= -_threshold)
         {
             _animator.SetBool("Walk Backward", false);
         }
