@@ -1,5 +1,7 @@
-/Project/Library/
+/Project
+/Library/
 /Logs/
+/Template/
 *.sln
 *.csproj
 /.idea/
