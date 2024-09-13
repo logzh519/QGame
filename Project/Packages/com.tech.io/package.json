@@ -1,6 +1,6 @@
 {
-    "name": "com.tech.assetmanager",
-    "displayName": "QG.Assets",
+    "name": "com.tech.iosystem",
+    "displayName": "QG.IO",
     "author": { "name": "Cysharp, Inc.", "url": "" },
     "version": "1.0.0",
     "unity": "2023.2",
@@ -9,7 +9,5 @@
     "license": "",
     "category": "",
     "dependencies": {
-		"com.cysharp.unitask": "2.5.5",
-		"com.unity.addressables":"1.21.12"
 	}
 }

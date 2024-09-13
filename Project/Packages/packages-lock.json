@@ -6,8 +6,50 @@
       "source": "embedded",
       "dependencies": {}
     },
-    "com.tech.assetmanager": {
-      "version": "file:com.tech.assetmanager",
+    "com.tech.assetsystem": {
+      "version": "file:com.tech.assetsystem",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.cysharp.unitask": "2.5.5",
+        "com.unity.addressables": "1.21.12"
+      }
+    },
+    "com.tech.battlesystem": {
+      "version": "file:com.tech.battle",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.cysharp.unitask": "2.5.5",
+        "com.unity.addressables": "1.21.12"
+      }
+    },
+    "com.tech.iosystem": {
+      "version": "file:com.tech.io",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
+    "com.tech.rolesystem": {
+      "version": "file:com.tech.rolesystem",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.cysharp.unitask": "2.5.5",
+        "com.unity.addressables": "1.21.12"
+      }
+    },
+    "com.tech.skillsystem": {
+      "version": "file:com.tech.skillsystem",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.cysharp.unitask": "2.5.5",
+        "com.unity.addressables": "1.21.12"
+      }
+    },
+    "com.tech.uisystem": {
+      "version": "file:com.tech.uisystem",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
