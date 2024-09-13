@@ -6,8 +6,8 @@
       "source": "embedded",
       "dependencies": {}
     },
-    "com.tech.resmanager": {
-      "version": "file:com.nd.resmanager",
+    "com.tech.assetmanager": {
+      "version": "file:com.nd.assetmanager",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
