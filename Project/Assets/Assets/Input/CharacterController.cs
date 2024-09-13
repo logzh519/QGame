@@ -15,7 +15,7 @@ public class CharacterController : MonoBehaviour
     private readonly float _threshold = 0.1f;
     
     
-    // Start is called before the first frame update
+    // Start is called before the  irst frame update
     void Start()
     {
         _animator = GetComponent<Animator>();

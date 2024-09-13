@@ -1,0 +1,12 @@
+{
+    "name": "com.tech.resmanager",
+    "displayName": "ResourceManager",
+    "author": { "name": "Cysharp, Inc.", "url": "" },
+    "version": "1.0.0",
+    "unity": "2023.2",
+    "description": "",
+    "keywords": [ "", ""],
+    "license": "",
+    "category": "",
+    "dependencies": {}
+}
