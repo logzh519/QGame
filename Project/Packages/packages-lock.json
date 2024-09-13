@@ -7,7 +7,7 @@
       "dependencies": {}
     },
     "com.tech.assetmanager": {
-      "version": "file:com.nd.assetmanager",
+      "version": "file:com.tech.assetmanager",
       "depth": 0,
       "source": "embedded",
       "dependencies": {
