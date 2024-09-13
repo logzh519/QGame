@@ -10,7 +10,10 @@
       "version": "file:com.nd.assetmanager",
       "depth": 0,
       "source": "embedded",
-      "dependencies": {}
+      "dependencies": {
+        "com.cysharp.unitask": "2.5.5",
+        "com.unity.addressables": "1.21.12"
+      }
     },
     "com.unity.addressables": {
       "version": "1.21.21",
